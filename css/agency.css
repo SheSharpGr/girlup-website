@@ -7,6 +7,7 @@
      font-family: "Besom";
      src: url("fonts/Besom.ttf");
 }
+.logo{
     height: 50px;
     position: relative;
     top: -15px;
@@ -637,7 +638,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #222222;
+  background-color: #fed136;
   height: 40px;
   width: 40px;
   border-radius: 100%;
@@ -652,7 +653,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #ff6b6b;
 }
 .btn:focus,
 .btn:active,
